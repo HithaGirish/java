@@ -1,0 +1,12 @@
+static-without object and operater
+public-can access any where
+source code-set of instruction that a programmer writes to create software
+main method is pre defined
+jvm process the byte code
+static method-we can call without creating an instance of the class
+variablr-data ype variavle name=value
+ set of objects which shares common characteristics/ behavior and common properties/ attributes
+public -we can access within the class or outside but in private only within the class
+protected - within class and inside inherited class(existing class for new implement)
+default-without access specifier then it will be default
+println-method

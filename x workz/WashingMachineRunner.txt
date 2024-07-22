@@ -1,0 +1,17 @@
+class WashingMachineRunner
+{
+  public static void main(String[] args)
+  {
+    System.out.println("Running main in WashingMachineRunner");
+	WashingMachineRunner.wash;
+	WashingMachineRunner.rinse;
+	WashingMachineRunner.displaytime;
+	WashingMachineRunner.dry;
+	WashingMachineRunner.cleancloth;
+	WashingMachineRunner.temparaturecontrol;
+	WashingMachineRunner.spinspeed;
+	WashingMachineRunner.childlock;
+	WashingMachineRunner.delaystart;
+	WashingMachineRunner.prewash;
+  }
+}

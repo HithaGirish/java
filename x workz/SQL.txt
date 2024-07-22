@@ -1,0 +1,8 @@
+SQL:
+application  :manage the data
+three layers:
+1.presentation layer
+    API-http protocal
+2.applicatin business layer
+    JPA JDBC
+3.data layer
